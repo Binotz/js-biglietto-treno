@@ -6,7 +6,7 @@ const userKilometers = parseInt(prompt("Quanti kilometri devi percorrere?"));
 const euroPerKm = 0.21;
 const childDiscount = 0.2;
 const elderDiscount = 0.4;
-let msg = "";
+let msg = "Oh oh, hai rotto qualcosa... adesso il Dev si arrabbierà molto!";
 
 //price calc
 let price = userKilometers * euroPerKm;
